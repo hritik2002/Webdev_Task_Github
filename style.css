@@ -235,7 +235,7 @@ footer{
     font-weight:bolder;
     cursor: pointer;
     transition:all 0.2s;
-    box-shadow: 2px 0px 2px 0px rgba(0, 0, 255, 0.349);
+    box-shadow: 0px 0px 2px 0px rgba(0, 0, 255, 0.349);
 }
 #sign:hover{
     background-color: rgba(0, 0, 255, 0.815);
@@ -429,7 +429,7 @@ To make it visible we should make it block */
         font-weight:bolder;
         cursor: pointer;
         transition:all 0.2s;
-        box-shadow: 2px 0px 2px 0px rgba(0, 0, 255, 0.349);
+        box-shadow: 0px 0px 2px 0px rgba(0, 0, 255, 0.349);
     }
     #sign:hover{
         background-color: rgba(0, 0, 255, 0.815);
@@ -539,13 +539,12 @@ To make it visible we should make it block */
         width: 60% !important;
         word-wrap: normal !important;
         text-align:center !important;
-        
     }
     .third>p{
         width: 96% !important;
         font-size: 1.3rem !important;
-        word-wrap: break-word !important;
-        text-align:center !important;
+        word-wrap:normal !important;
+        text-align: center !important;
     }
     .btn-mobile{
         display: block !important;
@@ -610,7 +609,6 @@ To make it visible we should make it block */
         font-weight:bolder;
         cursor: pointer;
         transition:all 0.2s;
-        box-shadow: 2px 0px 2px 0px rgba(0, 0, 255, 0.349);
     }
     #sign:hover{
         background-color: rgba(0, 0, 255, 0.815);
@@ -621,7 +619,6 @@ To make it visible we should make it block */
     #sign:active{
         background-color: rgba(0, 0, 255, 0.973);
         color: rgba(255, 255, 255, 0.849);
-        /* text-decoration: underline; */
     }
     
     
