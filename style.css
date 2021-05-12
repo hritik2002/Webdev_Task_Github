@@ -547,15 +547,15 @@ To make it visible we should make it block */
     }
     .btn-mobile{
         display: block !important;
-        margin:1.5rem auto 5px auto ;
-        width: 30%;
-        padding:10px 1px !important;
+        margin:1.5rem auto 10px auto ;
+        width: max-content;
+        padding:8px 10px !important;
         color: white;
         background-image: linear-gradient(rgb(45, 206, 45),rgb(12, 151, 12),rgb(78, 202, 82)) !important;
         border: 1px solid rgb(3, 167, 3);
         border-radius: 5px;
         cursor: pointer;
-        font-size: 0.9rem !important;
+        font-size: 0.8rem !important;
         font-weight: 600 !important;
         word-wrap: break-word !important;
     }
@@ -599,10 +599,9 @@ To make it visible we should make it block */
     #sign{
         margin: 15px auto 10px auto;
         border: none;
-        
         width:auto;
-        padding: 10px 12px;
-        font-size: 1.1rem;
+        padding: 8px 10px;
+        font-size: 0.74rem;
         background-color: rgba(13, 13, 235, 0.918);
         color: white;
         border-radius: 4px;
