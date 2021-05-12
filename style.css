@@ -542,7 +542,7 @@ To make it visible we should make it block */
     }
     .third>p{
         width: 88% !important;
-        font-size: 1.32rem !important;
+        font-size: 1.2rem !important;
         word-wrap: break-word !important;
     }
     .btn-mobile{
