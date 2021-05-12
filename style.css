@@ -601,7 +601,7 @@ To make it visible we should make it block */
         border: none;
         width:auto;
         padding: 8px 10px;
-        font-size: 0.9rem;
+        font-size: 1rem;
         background-color: rgba(13, 13, 235, 0.918);
         color: white;
         border-radius: 4px;
