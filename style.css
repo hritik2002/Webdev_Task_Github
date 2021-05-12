@@ -579,7 +579,7 @@ To make it visible we should make it block */
         margin:10px auto !important;
         margin-left: 2% !important;
         margin-right: 2% !important;
-        font-size:1.6rem !important;
+        font-size:1.1rem !important;
         color: rgb(85, 84, 84);
         font-weight:200 !important;
         text-align: center;
@@ -590,11 +590,9 @@ To make it visible we should make it block */
         display: inline-flex;
         word-break:keep-all;
         flex-wrap: nowrap;
-        margin-left: 5% !important;
-        margin-right: 5% !important;
-        font-size:2.5rem !important;
+        font-size:1.8rem !important;
         font-weight: 100 !important;
-        text-align: center;
+        text-align: center !important;
         word-wrap: break-word !important;
 
     }
