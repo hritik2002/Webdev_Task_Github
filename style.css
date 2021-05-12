@@ -539,11 +539,13 @@ To make it visible we should make it block */
         width: 60% !important;
         word-wrap: normal !important;
         text-align:center !important;
+        
     }
     .third>p{
-        width: 88% !important;
-        font-size: 1.28rem !important;
+        width: 90% !important;
+        font-size: 1.3rem !important;
         word-wrap: break-word !important;
+        text-align:center !important;
     }
     .btn-mobile{
         display: block !important;
