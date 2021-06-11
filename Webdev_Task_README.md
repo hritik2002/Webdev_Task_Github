@@ -1,2 +1,4 @@
 # Webdev_Task_Github
-college project.
+A github frontend clone . 
+Using HTML , CSS , JS
+
